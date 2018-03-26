@@ -1,2 +1,2 @@
 # Documentation
-Contains documents developed by the ColossusCoinXT team
+Contains documents developed by the ColossusXT team
